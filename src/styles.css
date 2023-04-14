@@ -1,0 +1,29 @@
+html {
+  background: rgb(248, 197, 103);
+}
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  padding: 10px;
+  color: brown;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
